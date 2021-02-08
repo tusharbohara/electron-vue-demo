@@ -1,0 +1,23 @@
+{
+    "name": "electron-vue-demo",
+    "version": "1.0.0",
+    "description": "This project is based on rendering vue app inside electron application. vue-cli-electron-builder is used to integrate both together.",
+    "main": "index.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tusharbohara/electron-vue-demo.git"
+    },
+    "keywords": [],
+    "author": "Tushar Bohara",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tusharbohara/electron-vue-demo/issues"
+    },
+    "homepage": "https://github.com/tusharbohara/electron-vue-demo#readme",
+    "devDependencies": {
+        "electron": "^11.2.3"
+    }
+}
